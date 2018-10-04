@@ -1,0 +1,1 @@
+Dùng switchMap có 1 cái lợi đó là chúng ta tránh được race conditions Sở dĩ được vậy là bởi vì bản chất của operator này. Nó sẽ unsubscribe từ Observable trước đó và chỉ emit giá trị từ Observable gần nhất.
