@@ -10,7 +10,7 @@ Collection personal blogs about Front-end(HTML, CSS, Javascript, Angular, React,
 
 ### Angular
   - [Readme](https://github.com/dqhuy93/Front-end-resources/blob/master/angular.md)
-  - [Readme](https://github.com/dqhuy93/Front-end-resources/blob/master/angular-resource-fork.md)
+  - [Readme - fork](https://github.com/dqhuy93/Front-end-resources/blob/master/angular-resource-fork.md)
 
 ### ReactJS
   - [Readme](https://github.com/dqhuy93/Front-end-resources/blob/master/reactjs.md)
