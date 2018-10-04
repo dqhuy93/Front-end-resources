@@ -4,3 +4,4 @@ Collection personal blogs about Front-end(HTML, CSS, Javascript, Angular, React,
 
 - https://alligator.io/
 - http://jasonwatmore.com
+- https://appdividend.com/
