@@ -17,9 +17,9 @@ Two questions may arise:
 	
 ##Answer #1
 
-> Always call super() if you have a constructor and don't worry about it if you don't have a constructor
+> Always call **super()** if you have a constructor and don't worry about it if you don't have a constructor
 
-Calling super() is necessary only if you need to have a constructor. Take a look at this code:
+Calling **`super()`** is necessary only **if you need to have a constructor**. Take a look at this code:
 
 ```javascript
 class MyClass extends React.Component {
@@ -29,7 +29,7 @@ class MyClass extends React.Component {
 }
 ```
 
-The code above is perfectly valid. You don't have to call super() for every react component you create. However, if there is a constructor in your code, then you MUST call super:
+The code above is perfectly valid. You **don't have to call `super()`** for every react component you create. However, if there is a constructor in your code, then **you MUST call super**:
 
 ```javascript
 class MyClass extends React.Component {
@@ -40,9 +40,9 @@ class MyClass extends React.Component {
 }
 ```
 
-The reason why this cannot be allowed before super() is because this is uninitialized if super() is not called [1]
+The reason why **`this`** cannot be allowed before `super()` is because this is uninitialized if `super()` is not called [1]
 
-You may think you can get away with an empty constructor without callling super():
+You may think you can get away with an empty constructor without callling `super()`:
 
 ```javascript
 class MyClass extends React.Component {
@@ -51,14 +51,14 @@ class MyClass extends React.Component {
 }
 ```
 
-ES6 class constructors MUST call super if they are subclasses. Thus, you have to call super() as long as you have a constructor. (But a subclass does not have to have a constructor)
+ES6 class constructors MUST call super if they are subclasses. Thus, you have to call `super()` as long as you have a constructor. (But a subclass does not have to have a constructor)
 
 ## Answer #2
 
-> Call super(props) only if you want to access this.props inside the constructor. React automatically set it for you if you want to access it anywhere else.
+> Call `super(props)` only if you want to access `this.props` inside the constructor. React automatically set it for you if you want to access it anywhere else.
 
 
-The effect of passing props when calling super() allows you to access this.props in the constructor:
+The effect of passing `props` when calling `super()` allows you to access `this.props` in the constructor:
 
 ```javascript
 class MyClass extends React.Component{
@@ -82,7 +82,7 @@ class MyClass extends React.Component{
 }
 ```
 
-There is no need to pass props into the constructor if you want to use it in other places. Because React automatically set it for you [2]
+There is no need to pass `props` into the constructor if you want to use it in other places. Because React automatically set it for you [2]
 
 ```javascript
 class MyClass extends React.Component{
