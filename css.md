@@ -10,6 +10,8 @@ Collection personal blogs about Front-end(HTML, CSS, Javascript, Angular, React,
 
 ### CSS
 
+- [11 JavaScript Animation Libraries For 2018](https://blog.bitsrc.io/11-javascript-animation-libraries-for-2018-9d7ac93a2c59)
+
 - [A simple visual cheatsheet for CSS Grid Layout](http://grid.malven.co)
 
 - [A simple visual cheatsheet for CSS Flex Layout](http://flexbox.malven.co)
