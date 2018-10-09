@@ -1,4 +1,6 @@
 # React ES6 class constructor super()
+Link : http://cheng.logdown.com/posts/2016/03/26/683329
+
 
 When writting React using the ES6 class syntax like this:
 
