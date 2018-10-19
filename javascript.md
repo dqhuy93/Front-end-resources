@@ -19,6 +19,7 @@ Collection personal blogs about Front-end(HTML, CSS, Javascript, Angular, React,
 - [Principles of functional programming in JavaScript](https://flaviocopes.com/javascript-functional-programming/)
 - [Functional Programming with JavaScript](https://codeburst.io/functional-programming-in-javascript-e57e7e28c0e5)
 - [JavaScript Design Patterns](https://medium.com/front-end-hacking/javascript-design-patterns-ed9d4c144c81)
+- [Understanding Design Patterns in JavaScript](https://blog.bitsrc.io/understanding-design-patterns-in-javascript-13345223f2dd)
 - [I never understood JavaScript closures](https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8)
 - [ES6 for beginners](https://codeburst.io/es6-tutorial-for-beginners-5f3c4e7960be)
 - [Functional Programming in JavaScript](https://codeburst.io/functional-programming-in-javascript-e57e7e28c0e5)
