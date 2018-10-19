@@ -9,8 +9,8 @@ Collection personal blogs about Front-end(HTML, CSS, Javascript, Angular, React,
 
 ### Tips JavaScript
 
-- [(function) Validate Email](https://github.com/dqhuy93/function-javascript-helpful/blob/master/function-validate-email.md)
-- [(function) time-duration-between-two-datetime](https://github.com/dqhuy93/function-javascript-helpful/blob/master/time-duration-between-two-datetime.md)
+- [(function) Validate Email](https://github.com/dqhuy93/Front-end-resources/blob/master/javascript-functions/function-validate-email.md)
+- [(function) time-duration-between-two-datetime](https://github.com/dqhuy93/Front-end-resources/blob/master/javascript-functions/time-duration-between-two-datetime.md)
 
 
 ### Javascript
