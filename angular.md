@@ -38,7 +38,7 @@ Collection personal blogs about Front-end(HTML, CSS, Javascript, Angular, React,
 
 - [Source code](https://github.com/designcourse/ngrx-tutorial) - [Angular Ngrx Store Tutorial](https://coursetro.com/posts/code/151/Angular-Ngrx-Store-Tutorial---Learn-Angular-State-Management)
 
-- [Building a Real Time Search in Angular With RxJS](https://alligator.io/angular/real-time-search-angular-rxjs/) or [here](https://github.com/dqhuy93/angular-resources/blob/master/Real-time-search-angular-rxjs.md)
+- [Building a Real Time Search in Angular With RxJS](https://alligator.io/angular/real-time-search-angular-rxjs/) or [here](https://github.com/dqhuy93/Front-end-resources/blob/master/angular/Real-time-search-angular-rxjs.md)
 
 - [How to implement Pipes / Filters in Angular 5 with multiple parameters to filter an array](http://www.developershive.com/implement-pipes-filters-angular-5-multiple-parameters-filter-array/)
 
