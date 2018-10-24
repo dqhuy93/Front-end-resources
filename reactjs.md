@@ -10,6 +10,8 @@ Collection personal blogs about Front-end(HTML, CSS, Javascript, Angular, React,
 
 ### ReactJS
 
+- [React to async/await](https://medium.com/@kkomaz/react-to-async-await-553c43f243e2)
+
 - [Multiple layouts with React Router v4](https://gist.github.com/avinmathew/e82fe7e757b20cb337d5219e0ab8dc2c)
 
 - [React ES6 class constructor super()](https://github.com/dqhuy93/Front-end-resources/blob/master/reactjs/React-ES6-class-constructor-super.md)
