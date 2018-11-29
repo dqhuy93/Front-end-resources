@@ -9,6 +9,7 @@ Collection personal blogs about Front-end(HTML, CSS, Javascript, Angular, React,
 
 
 ### Angular
+- [Angularjs interview questions answers](https://www.gangboard.com/blog/angularjs-interview-questions-answers/?fbclid=IwAR0YZbxUsJlIZRFnyNbn2ZioqZcQEWLWyuSh_x0NyemJbPQcU3SYmZ5U2lc)
 
 - [Combining multiple Http streams with RxJS Observables in Angular2](https://github.com/dqhuy93/angular2-tips/blob/master/Combining-multiple-Http-streams-with-RxJS-Observables-in-Angular2.md)
 
