@@ -14,6 +14,8 @@ Collection personal blogs about Front-end(HTML, CSS, Javascript, Angular, React,
 
 ### ReactJS
 
+- [React 16 Lifecycle Methods: How and When to Use Them](https://blog.bitsrc.io/react-16-lifecycle-methods-how-and-when-to-use-them-f4ad31fb2282)
+
 - [Role based authorization in React](https://hackernoon.com/role-based-authorization-in-react-c70bb7641db4)
 
 - [React Cheatsheet](http://www.developer-cheatsheets.com/react)
