@@ -14,6 +14,9 @@ Collection personal blogs about Front-end(HTML, CSS, Javascript, Angular, React,
 
 ### ReactJS
 
+- [How to work with React the right way to avoid some common pitfalls](https://medium.freecodecamp.org/how-to-work-with-react-the-right-way-to-avoid-some-common-pitfalls-fc9eb5e34d9e)
+
+
 - [React 16 Lifecycle Methods: How and When to Use Them](https://blog.bitsrc.io/react-16-lifecycle-methods-how-and-when-to-use-them-f4ad31fb2282)
 
 - [Role based authorization in React](https://hackernoon.com/role-based-authorization-in-react-c70bb7641db4)
