@@ -10,6 +10,10 @@ Collection personal blogs about Front-end(HTML, CSS, Javascript, Angular, React,
 
 ### CSS
 
+- [Một số SASS(SCSS) Snippets hay cho Front End (Phần 1)](https://viblo.asia/p/mot-so-sassscss-snippets-hay-cho-front-end-phan-1-V3m5WoMx5O7)
+
+- [Một số SASS(SCSS) Snippets hay cho Front End (Phần 2)](https://viblo.asia/p/mot-so-sassscss-snippets-hay-cho-front-end-phan-2-bWrZnPww5xw)
+
 - [11 JavaScript Animation Libraries For 2018](https://blog.bitsrc.io/11-javascript-animation-libraries-for-2018-9d7ac93a2c59)
 
 - [A simple visual cheatsheet for CSS Grid Layout](http://grid.malven.co)
