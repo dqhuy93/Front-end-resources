@@ -9,6 +9,12 @@ Collection personal blogs about Front-end(HTML, CSS, Javascript, Angular, React,
 
 
 ### CSS
+- CSS Border Text
+````css
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    text-shadow: 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff, 0 1px 0 #fff;
+````
 
 - [Một số SASS(SCSS) Snippets hay cho Front End (Phần 1)](https://viblo.asia/p/mot-so-sassscss-snippets-hay-cho-front-end-phan-1-V3m5WoMx5O7)
 
