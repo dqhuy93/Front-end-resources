@@ -23,3 +23,6 @@ Collection personal blogs about Front-end(HTML, CSS, Javascript, Angular, React,
 
 ### Css
   - [Readme](https://github.com/dqhuy93/Front-end-resources/blob/master/css.md)
+
+### Visual Studio Code
+  - [Readme](https://github.com/dqhuy93/Front-end-resources/blob/master/vs-code.md)
