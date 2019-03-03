@@ -14,7 +14,7 @@ Collection personal blogs about Front-end(HTML, CSS, Javascript, Angular, React,
 
 ### ReactJS
 
-- [Using a \<PureComponent\/\> in React](https://medium.com/front-end-weekly/using-a-purecomponent-in-reacts-262972f9f1e0)
+- [Using a \<PureComponent \/\> in React](https://medium.com/front-end-weekly/using-a-purecomponent-in-reacts-262972f9f1e0)
 
 - [Top 5 Practices to Boost React Performance](https://www.codementor.io/blizzerand/top-5-practices-to-boost-react-performance-jv6zr89ep)
 
