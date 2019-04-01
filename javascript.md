@@ -14,7 +14,7 @@ Collection personal blogs about Front-end(HTML, CSS, Javascript, Angular, React,
 
 
 ### Javascript
-
+- [Top 12 Javascript Tricks for Beginners](https://morioh.com/p/932a64becbf4/top-12-javascript-tricks-for-beginners)
 - [Master the JavaScript Interview: What’s the Difference Between Class & Prototypal Inheritance?](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9)
 - [Master the JavaScript Interview: What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
 - [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
