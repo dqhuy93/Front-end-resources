@@ -9,10 +9,12 @@ Collection personal blogs about Front-end(HTML, CSS, Javascript, Angular, React,
 
 ### Interview
 
-- [A React job interview — recruiter perspective.](https://medium.com/@baphemot/a-react-job-interview-recruiter-perspective-f1096f54dd16)
+- [A React job interview — recruiter perspective](https://medium.com/@baphemot/a-react-job-interview-recruiter-perspective-f1096f54dd16)
 
 
 ### ReactJS
+
+- [How to use ImmutableJS without going crazy](https://hackernoon.com/how-to-use-immutablejs-without-going-crazy-bfcb805a0043)
 
 - [React + Webpack + TypeScript Project Setup](https://morioh.com/p/f8b2ba405c7a/react-webpack-typescript-project-setup)
 
