@@ -19,6 +19,9 @@ Collection personal blogs about Front-end(HTML, CSS, Javascript, Angular, React,
 ### ReactJS
   - [Readme](https://github.com/dqhuy93/Front-end-resources/blob/master/reactjs.md)
   
+### React Native
+  - [Readme](https://github.com/dqhuy93/Front-end-resources/blob/master/react_native.md)
+  
 ### Javascript
   - [Readme](https://github.com/dqhuy93/Front-end-resources/blob/master/javascript.md)
 
