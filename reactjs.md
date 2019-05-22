@@ -20,7 +20,7 @@ Collection personal blogs about Front-end(HTML, CSS, Javascript, Angular, React,
 
 - [Optimal file structure for React applications](https://levelup.gitconnected.com/optimal-file-structure-for-react-applications-b9af44a6ac43)
 
--[Pure Functional Components in React 16.6](https://logrocket.com/blog/pure-functional-components/)
+- [Pure Functional Components in React 16.6](https://logrocket.com/blog/pure-functional-components/)
 
 - [Using a \<PureComponent \/\> in React](https://medium.com/front-end-weekly/using-a-purecomponent-in-reacts-262972f9f1e0)
 
