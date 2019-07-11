@@ -14,6 +14,8 @@ Collection personal blogs about Front-end(HTML, CSS, Javascript, Angular, React,
 
 ### ReactJS
 
+- [How to convert your existing Redux containers to Hooks](https://blog.logrocket.com/how-to-convert-your-existing-redux-containers-to-hooks/)
+
 - [How to use ImmutableJS without going crazy](https://hackernoon.com/how-to-use-immutablejs-without-going-crazy-bfcb805a0043)
 
 - [React + Webpack + TypeScript Project Setup](https://morioh.com/p/f8b2ba405c7a/react-webpack-typescript-project-setup)
