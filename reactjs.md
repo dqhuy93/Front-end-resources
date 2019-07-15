@@ -14,7 +14,9 @@ Collection personal blogs about Front-end(HTML, CSS, Javascript, Angular, React,
 
 ### ReactJS
 
--[Lazy loading (and preloading) components in React 16.6](https://school.geekwall.in/p/Bk6k46nCX/lazy-loading-and-preloading-components-in-react-16-6)
+- [useHooks](https://usehooks.com/)
+
+- [Lazy loading (and preloading) components in React 16.6](https://school.geekwall.in/p/Bk6k46nCX/lazy-loading-and-preloading-components-in-react-16-6)
 
 - [How to convert your existing Redux containers to Hooks](https://blog.logrocket.com/how-to-convert-your-existing-redux-containers-to-hooks/)
 
