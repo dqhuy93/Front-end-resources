@@ -14,6 +14,8 @@ Collection personal blogs about Front-end(HTML, CSS, Javascript, Angular, React,
 
 
 ### Javascript
+
+- [15 code JavaScript thường được sử dụng với deverloper javascript](https://anonystick.com/blog-developer/15-code-javascript-thuong-duoc-su-dung-voi-developer-javascript-2019070375061459.jsx)
 - [7 best JavaScript Design Patterns You Should Know](https://www.dunebook.com/best-javascript-design-patterns-should-know)
 - [Top 12 Javascript Tricks for Beginners](https://morioh.com/p/932a64becbf4/top-12-javascript-tricks-for-beginners)
 - [Master the JavaScript Interview: What’s the Difference Between Class & Prototypal Inheritance?](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9)
