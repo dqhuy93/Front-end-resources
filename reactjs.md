@@ -14,6 +14,8 @@ Collection personal blogs about Front-end(HTML, CSS, Javascript, Angular, React,
 
 ### ReactJS
 
+- [21 Performance Optimizations Techniques for React](https://medium.com/@mayank.gupta.6.88/https-medium-com-mayank-gupta-6-88-21-performance-optimizations-techniques-for-react-d15fa52c2349)
+
 - [useHooks](https://usehooks.com/)
 
 - [Lazy loading (and preloading) components in React 16.6](https://school.geekwall.in/p/Bk6k46nCX/lazy-loading-and-preloading-components-in-react-16-6)
