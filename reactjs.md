@@ -14,6 +14,8 @@ Collection personal blogs about Front-end(HTML, CSS, Javascript, Angular, React,
 
 ### ReactJS
 
+- [Migrate from react-loadable to React.Suspense](https://objectpartners.com/2018/12/05/migrate-from-react-loadable-to-react-suspense/)
+
 - [21 Performance Optimizations Techniques for React](https://medium.com/@mayank.gupta.6.88/https-medium-com-mayank-gupta-6-88-21-performance-optimizations-techniques-for-react-d15fa52c2349)
 
 - [useHooks](https://usehooks.com/)
