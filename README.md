@@ -11,6 +11,8 @@ Collection personal blogs about Front-end(HTML, CSS, Javascript, Angular, React,
 - https://completejavascript.com/
 - https://ehkoo.com/
 
+### Git
+  - [Readme](https://github.com/dqhuy93/Front-end-resources/blob/master/git.README)
 
 ### Angular
   - [Readme](https://github.com/dqhuy93/Front-end-resources/blob/master/angular.md)
