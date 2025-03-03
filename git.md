@@ -1,10 +1,10 @@
-1. git checkout {commitId}
+### git checkout {commitId}
 
 Checkout qua brand(commitId} mà không cần phải tạo brand khác, revert code ,...
 
 Thuận tiện khi muốn kiểm tra nhanh code tại commitId để debug
 
-2. git revert {commitId}
+### git revert {commitId}
 
 https://www.30secondsofcode.org/git/s/undo-commit-without-rewriting-history/
 
@@ -20,7 +20,7 @@ git revert HEAD
 # with the inverse of its changes
 ```
 
-3. git reset --soft or --hard {commitId}
+### git reset --soft or --hard {commitId}
 
 https://www.30secondsofcode.org/git/s/rewind-to-commit/#rewind-back-n-commits
 
@@ -46,7 +46,7 @@ git reset --hard HEAD~3
 # Rewinds back 3 commits and deletes changes
 ```
 
-4. git reflog
+### git reflog
 
 https://www.30secondsofcode.org/git/s/view-undo-history/
 
