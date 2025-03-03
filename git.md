@@ -107,3 +107,14 @@ git commit -m "Merged feature-branch into main with squash"
 Lệnh này sẽ hợp nhất tất cả thay đổi từ feature-branch vào working directory nhưng không tạo commit ngay lập tức.
 
 Sau đó, bạn có thể tự tạo một commit duy nhất.
+
+---------
+Muốn bỏ commit nào thì chỉ việc thêm squash ở đầu, nó sẽ tự động gộp với commit ở phía trên nó trong danh sách
+
+```base
+pick 123abc First commit #commit gần thứ ba
+squash 456def Second commit #commit gần thứ nhì
+pick 789ghi Third commit #commit gần nhất
+
+# 456def [gần thứ nhì] sẽ được gộp với 123abc [commit gần thứ ba]
+```
