@@ -67,3 +67,43 @@ After you've found the commit you want, you can use git reset to go back to it.
 git reset --hard 3050fc0de
 # Go back to the commit with the given hash
 ```
+
+### git squash
+
+## 1. Khi muốn gộp nhiều commit ở local trước khi push lên
+
+Cách thực hiện:
+
+```base
+git rebase -i HEAD~3  # Squash 3 commit gần nhất
+```
+
+Bước 1: Chạy lệnh trên, Git sẽ mở một trình soạn thảo với danh sách commit, ví dụ:
+
+```base
+pick 123abc First commit
+pick 456def Second commit
+pick 789ghi Third commit
+```
+
+Bước 2: Thay đổi pick thành squash hoặc s ở các commit sau commit đầu tiên:
+
+```base
+pick 123abc First commit
+squash 456def Second commit
+squash 789ghi Third commit
+```
+
+Bước 3: Lưu và thoát, Git sẽ yêu cầu bạn chỉnh sửa message của commit mới. Sau khi xác nhận, các commit sẽ được gộp thành một.
+
+## 2. Squash commit khi merge một nhánh khác
+
+Nếu bạn muốn gộp toàn bộ lịch sử của một nhánh thành một commit duy nhất khi merge:
+
+```base
+git merge --squash feature-branch
+git commit -m "Merged feature-branch into main with squash"
+```
+Lệnh này sẽ hợp nhất tất cả thay đổi từ feature-branch vào working directory nhưng không tạo commit ngay lập tức.
+
+Sau đó, bạn có thể tự tạo một commit duy nhất.
